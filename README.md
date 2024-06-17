@@ -6,7 +6,7 @@ nano /etc/apt/sources.list.d/pve-enterprise.list
 ```
 add '#' symbol before it
 ```
-#deb https://enterprise.proxmox.com stretch pve-enterprise
+#deb https://enterprise.proxmox.com/debian/pve bookworm pve-enterprise
 ```
 
 ## 2. Add free no-subscription repository
